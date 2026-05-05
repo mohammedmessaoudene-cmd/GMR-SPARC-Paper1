@@ -1,0 +1,6 @@
+parameter,source,bounds_or_values,count,seed
+A_GMR,D:/IGV_2/c4_3_statevar_symbolic_regression.py AMPLITUDE_GRID,5.0118723362727250e-06 .. 5.0118723362727251e-05,10,
+lambda_s initial,D:/IGV_2/c4_3_statevar_symbolic_regression.py LAMBDA_GRID,"0.5, 1.0, 1.5, 2.0, 3.0, 5.0",6,
+lambda_s extended,D:/IGV_2/c4_4_stage6a_uniqueness_boundary_class_hardgate.py LOCK2_EXTENDED_LAMBDA_GRID,"0.5, 1.0, 1.5, 2.0, 3.0, 5.0, 7.5, 10.0, 12.5, 15.0, 20.0",11,
+bootstrap,released manuscript metadata,paired BCa resampling,,20260421
+pure sqrt(g_N) baseline amplitude,recovered diagnostic; bounded scalar fit on calibration_24,5.0118723362727250e-06 .. 5.0118723362727251e-05,continuous bounded optimizer,

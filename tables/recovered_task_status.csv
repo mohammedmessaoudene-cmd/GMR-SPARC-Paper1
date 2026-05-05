@@ -1,0 +1,5 @@
+﻿task,status,input_or_output
+sin_alpha_srad_full_3391,EXECUTED_RECOVERED_INPUTS,figures/Figure6_sin_alpha_Srad_diagnostic.png and tables/sin_alpha_Srad_by_galaxy.csv
+pure_sqrt_gn_baseline_full_sample,EXECUTED_RECOVERED_INPUTS,tables/pure_sqrt_baseline_metrics.csv
+local_spsi_variant,EXECUTED_RECOVERED_INPUTS,tables/local_Spsi_variant_metrics.csv
+repository_url_and_doi,PENDING_METADATA,No real public URL or DOI supplied

@@ -1,0 +1,5 @@
+series,n_rows,x_min,x_max,median_spacing,residual_rmse_if_present,weighting
+c4_bins,13,-11.69,-9.12,0.21,0.064039,equal weight per stored binned residual row
+mond_bins,13,-11.69,-9.12,0.21,0.203235,equal weight per stored binned residual row
+official_all,2693,-12.08,-8.18,0.01,,raw/source rows
+official_bins,14,-11.69,-8.91,0.21,,equal weight per stored binned residual row

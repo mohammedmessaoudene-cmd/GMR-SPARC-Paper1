@@ -1,0 +1,12 @@
+﻿cff-version: 1.2.0
+message: "If you use this software or derived tables, please cite the archived release and the associated manuscript."
+title: "GMR SPARC Paper 1 Reproducibility Package"
+version: "v55"
+authors:
+  - family-names: "Messaoudene"
+    given-names: "Mohammed"
+    orcid: "https://orcid.org/0009-0007-4665-2548"
+repository-code: "REPOSITORY_URL_REQUIRED_BEFORE_UPLOAD"
+doi: "ARCHIVE_DOI_REQUIRED_BEFORE_UPLOAD"
+license: "MIT"
+date-released: "2026-05-05"
