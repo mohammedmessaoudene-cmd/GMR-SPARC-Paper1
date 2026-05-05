@@ -1,0 +1,2 @@
+status,source,n_lambda_values,lambda_min,lambda_max,lambda_values,best_lambda_s,best_amplitude,best_train_equal_weight_rmse_kms,seed,amplitude_grid_bounds,lambda_step
+PARTIAL_RECOVERED,D:\igv\C4_4_STAGE6A_GALAXY_LAMBDA_SCAN.csv,11,0.5,20.0,0.5 1.0 1.5 2.0 3.0 5.0 7.5 10.0 12.5 15.0 20.0,10.0,1.3945832491957465e-05,27.407809424379693,NOT_PRESENT_IN_RECOVERED_SCAN,NOT_PRESENT_IN_RECOVERED_SCAN,NONUNIFORM_SCAN_VALUES

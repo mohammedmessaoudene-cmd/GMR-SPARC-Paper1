@@ -1,0 +1,5 @@
+"file","pattern","status"
+"CITATION.cff","REPOSITORY_URL_REQUIRED_BEFORE_UPLOAD","CLEAR"
+"CITATION.cff","ARCHIVE_DOI_REQUIRED_BEFORE_UPLOAD","CLEAR"
+"public_files","READY_AFTER_REPOSITORY_METADATA_ONLY","CLEAR"
+"public_files","repository URL and archive DOI will be inserted","CLEAR"

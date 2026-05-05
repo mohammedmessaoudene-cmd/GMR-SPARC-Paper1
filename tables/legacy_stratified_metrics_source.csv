@@ -1,0 +1,4 @@
+morph_slice,n_galaxies,eq_rms_gmr_kms,eq_rms_mond_kms,eq_rms_nfw_kms,eq_rms_iso_kms,win_rate_gmr_vs_nfw,availability_note
+bulge_rich_hsb,77,58.079875622029114,59.306122539342574,68.38954422225986,29.601698625267073,0.5324675324675324,Available preregistered morphology slice from frozen stress table.
+low_mass_dwarf,81,15.523165309675116,27.778367574410638,6.879936718331687,4.477900287494488,0.13580246913580246,Available preregistered morphology slice from frozen stress table.
+ordinary_disk,17,22.42838479920053,33.943713639814874,30.93329878234396,13.575670987059796,0.23529411764705882,Available preregistered morphology slice from frozen stress table.

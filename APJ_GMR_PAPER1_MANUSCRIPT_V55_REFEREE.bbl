@@ -1,0 +1,342 @@
+\begin{thebibliography}{}
+\expandafter\ifx\csname natexlab\endcsname\relax\def\natexlab#1{#1}\fi
+\providecommand{\url}[1]{\href{#1}{#1}}
+\providecommand{\dodoi}[1]{doi:~\href{http://doi.org/#1}{\nolinkurl{#1}}}
+\providecommand{\doeprint}[1]{\href{http://ascl.net/#1}{\nolinkurl{http://ascl.net/#1}}}
+\providecommand{\doarXiv}[1]{\href{https://arxiv.org/abs/#1}{\nolinkurl{https://arxiv.org/abs/#1}}}
+
+% type= article
+\bibitem[{K.~G. Begeman {et~al.}(1991)Begeman, Broeils, \&
+  Sanders}]{begeman1991}
+Begeman, K.~G., Broeils, A.~H., \& Sanders, R.~H. 1991,
+  \bibinfo{title}{Extended Rotation Curves of Spiral Galaxies: Dark Haloes and
+  Modified Dynamics,} Monthly Notices of the Royal Astronomical Society, 249,
+  523, \dodoi{10.1093/mnras/249.3.523}
+
+% type= article
+\bibitem[{J.~D. Bekenstein(2004)Bekenstein}]{bekenstein2004}
+Bekenstein, J.~D. 2004, \bibinfo{title}{Relativistic Gravitation Theory for the
+  Modified Newtonian Dynamics Paradigm,} Physical Review D, 70, 083509,
+  \dodoi{10.1103/PhysRevD.70.083509}
+
+% type= article
+\bibitem[{E.~F. Bell \& R.~S. de~Jong(2001)Bell \& de~Jong}]{bell2003}
+Bell, E.~F., \& de~Jong, R.~S. 2001, \bibinfo{title}{Stellar Mass-to-Light
+  Ratios and the Tully-Fisher Relation,} The Astrophysical Journal, 550, 212,
+  \dodoi{10.1086/319728}
+
+% type= article
+\bibitem[{L. Berezhiani \& J. Khoury(2015)Berezhiani \&
+  Khoury}]{berezhiani2015}
+Berezhiani, L., \& Khoury, J. 2015, \bibinfo{title}{Theory of Dark Matter
+  Superfluidity,} Physical Review D, 92, 103510,
+  \dodoi{10.1103/PhysRevD.92.103510}
+
+% type= article
+\bibitem[{A. Bosma(1981)Bosma}]{bosma1981}
+Bosma, A. 1981, \bibinfo{title}{21-cm Line Studies of Spiral Galaxies. I.
+  Observations of the Galaxies NGC 5033, 3198, 5055, 2841, and 7331,} The
+  Astronomical Journal, 86, 1791, \dodoi{10.1086/113062}
+
+% type= article
+\bibitem[{M. Boylan-Kolchin {et~al.}(2011)Boylan-Kolchin, Bullock, \&
+  Kaplinghat}]{boylankolchin2011}
+Boylan-Kolchin, M., Bullock, J.~S., \& Kaplinghat, M. 2011, \bibinfo{title}{Too
+  Big to Fail? The Puzzling Darkness of Massive Milky Way Subhaloes,} Monthly
+  Notices of the Royal Astronomical Society, 415, L40,
+  \dodoi{10.1111/j.1745-3933.2011.01074.x}
+
+% type= article
+\bibitem[{J.~S. Bullock \& M. Boylan-Kolchin(2017)Bullock \&
+  Boylan-Kolchin}]{bullock2017}
+Bullock, J.~S., \& Boylan-Kolchin, M. 2017, \bibinfo{title}{Small-Scale
+  Challenges to the LCDM Paradigm,} Annual Review of Astronomy and
+  Astrophysics, 55, 343, \dodoi{10.1146/annurev-astro-091916-055313}
+
+% type= article
+\bibitem[{A. Burkert(1995)Burkert}]{burkert1995}
+Burkert, A. 1995, \bibinfo{title}{The Structure of Dark Matter Halos in Dwarf
+  Galaxies,} The Astrophysical Journal Letters, 447, L25,
+  \dodoi{10.1086/309560}
+
+% type= article
+\bibitem[{G. Chabrier(2003)Chabrier}]{chabrier2003}
+Chabrier, G. 2003, \bibinfo{title}{Galactic Stellar and Substellar Initial Mass
+  Function,} Publications of the Astronomical Society of the Pacific, 115, 763,
+  \dodoi{10.1086/376392}
+
+% type= book
+\bibitem[{J. Cohen(1988)Cohen}]{cohen1988}
+Cohen, J. 1988, Statistical Power Analysis for the Behavioral Sciences, 2nd
+  edn. (Hillsdale, NJ: Lawrence Erlbaum Associates)
+
+% type= article
+\bibitem[{W.~J.~G. de~Blok {et~al.}(2001)de~Blok, McGaugh, \&
+  Rubin}]{deblok2001}
+de~Blok, W. J.~G., McGaugh, S.~S., \& Rubin, V.~C. 2001,
+  \bibinfo{title}{High-Resolution Rotation Curves of Low Surface Brightness
+  Galaxies. II. Mass Models,} The Astronomical Journal, 122, 2396,
+  \dodoi{10.1086/323450}
+
+% type= article
+\bibitem[{W.~J.~G. de~Blok {et~al.}(2008)de~Blok, Walter, Brinks, Trachternach,
+  Oh, \& Kennicutt}]{deblok2008}
+de~Blok, W. J.~G., Walter, F., Brinks, E., {et~al.} 2008,
+  \bibinfo{title}{High-Resolution Rotation Curves and Galaxy Mass Models from
+  THINGS,} The Astronomical Journal, 136, 2648,
+  \dodoi{10.1088/0004-6256/136/6/2648}
+
+% type= article
+\bibitem[{A. Di~Cintio {et~al.}(2014)Di~Cintio, Brook, Dutton, Maccio, Stinson,
+  \& Knebe}]{dicintio2014}
+Di~Cintio, A., Brook, C.~B., Dutton, A.~A., {et~al.} 2014, \bibinfo{title}{A
+  Mass-dependent Density Profile for Dark Matter Halos including the Influence
+  of Galaxy Formation,} Monthly Notices of the Royal Astronomical Society, 441,
+  2986, \dodoi{10.1093/mnras/stu729}
+
+% type= article
+\bibitem[{A.~A. Dutton \& A.~V. Maccio(2014)Dutton \& Maccio}]{dutton2014}
+Dutton, A.~A., \& Maccio, A.~V. 2014, \bibinfo{title}{Cold Dark Matter Halos in
+  the Planck Era: Evolution of Structural Parameters for Einasto and NFW
+  Profiles,} Monthly Notices of the Royal Astronomical Society, 441, 3359,
+  \dodoi{10.1093/mnras/stu742}
+
+% type= article
+\bibitem[{B. Efron(1979)Efron}]{efron1979}
+Efron, B. 1979, \bibinfo{title}{Bootstrap Methods: Another Look at the
+  Jackknife,} The Annals of Statistics, 7, 1, \dodoi{10.1214/aos/1176344552}
+
+% type= article
+\bibitem[{B. Efron(1987)Efron}]{efron1987}
+Efron, B. 1987, \bibinfo{title}{Better Bootstrap Confidence Intervals,} Journal
+  of the American Statistical Association, 82, 171,
+  \dodoi{10.1080/01621459.1987.10478410}
+
+% type= article
+\bibitem[{B. Famaey \& S.~S. McGaugh(2012)Famaey \& McGaugh}]{famaey2012}
+Famaey, B., \& McGaugh, S.~S. 2012, \bibinfo{title}{Modified Newtonian Dynamics
+  (MOND): Observational Phenomenology and Relativistic Extensions,} Living
+  Reviews in Relativity, 15, 10, \dodoi{10.12942/lrr-2012-10}
+
+% type= article
+\bibitem[{K.~C. Freeman(1970)Freeman}]{freeman1970}
+Freeman, K.~C. 1970, \bibinfo{title}{On the Disks of Spiral and S0 Galaxies,}
+  The Astrophysical Journal, 160, 811, \dodoi{10.1086/150474}
+
+% type= article
+\bibitem[{F. Governato {et~al.}(2012)Governato, Zolotov, Pontzen, Christensen,
+  Oh, Brooks, Quinn, Shen, \& Wadsley}]{governato2012}
+Governato, F., Zolotov, A., Pontzen, A., {et~al.} 2012, \bibinfo{title}{Cuspy
+  No More: How Outflows Affect the Central Dark Matter and Baryon Distribution
+  in Lambda CDM Galaxies,} Monthly Notices of the Royal Astronomical Society,
+  422, 1231, \dodoi{10.1111/j.1365-2966.2012.20696.x}
+
+% type= article
+\bibitem[{C.~R. Harris {et~al.}(2020)Harris, Millman, van~der Walt, Gommers,
+  Virtanen, Cournapeau, Wieser, Taylor, Berg, Smith, Kern, Picus, Hoyer, van
+  Kerkwijk, Brett, Haldane, del Río, Wiebe, Peterson, Gérard-Marchant,
+  Sheppard, Reddy, Weckesser, Abbasi, Gohlke, \& Oliphant}]{harris2020}
+Harris, C.~R., Millman, K.~J., van~der Walt, S.~J., {et~al.} 2020,
+  \bibinfo{title}{Array Programming with NumPy,} Nature, 585, 357,
+  \dodoi{10.1038/s41586-020-2649-2}
+
+% type= article
+\bibitem[{S. Holm(1979)Holm}]{holm1979}
+Holm, S. 1979, \bibinfo{title}{A Simple Sequentially Rejective Multiple Test
+  Procedure,} Scandinavian Journal of Statistics, 6, 65
+
+% type= article
+\bibitem[{J.~D. Hunter(2007)Hunter}]{hunter2007}
+Hunter, J.~D. 2007, \bibinfo{title}{Matplotlib: A 2D Graphics Environment,}
+  Computing in Science and Engineering, 9, 90, \dodoi{10.1109/MCSE.2007.55}
+
+% type= article
+\bibitem[{F. Lelli {et~al.}(2016)Lelli, McGaugh, \& Schombert}]{lelli2016}
+Lelli, F., McGaugh, S.~S., \& Schombert, J.~M. 2016, \bibinfo{title}{SPARC:
+  Mass Models for 175 Disk Galaxies with Spitzer Photometry and Accurate
+  Rotation Curves,} The Astronomical Journal, 152, 157,
+  \dodoi{10.3847/0004-6256/152/6/157}
+
+% type= article
+\bibitem[{F. Lelli {et~al.}(2019)Lelli, McGaugh, Schombert, Desmond, \&
+  Katz}]{lelli2019}
+Lelli, F., McGaugh, S.~S., Schombert, J.~M., Desmond, H., \& Katz, H. 2019,
+  \bibinfo{title}{The Baryonic Tully-Fisher Relation for Different Velocity
+  Definitions and Implications for Galaxy Angular Momentum,} Monthly Notices of
+  the Royal Astronomical Society, 484, 3267, \dodoi{10.1093/mnras/stz205}
+
+% type= article
+\bibitem[{A.~V. Maccio {et~al.}(2008)Maccio, Dutton, \& van~den
+  Bosch}]{maccio2008}
+Maccio, A.~V., Dutton, A.~A., \& van~den Bosch, F.~C. 2008,
+  \bibinfo{title}{Concentration, Spin and Shape of Dark Matter Haloes as a
+  Function of the Cosmological Model,} Monthly Notices of the Royal
+  Astronomical Society, 391, 1940, \dodoi{10.1111/j.1365-2966.2008.14029.x}
+
+% type= article
+\bibitem[{S.~S. McGaugh(2005)McGaugh}]{mcgaugh2005}
+McGaugh, S.~S. 2005, \bibinfo{title}{The Baryonic Tully-Fisher Relation of
+  Galaxies with Extended Rotation Curves and the Stellar Mass of Rotating
+  Galaxies,} The Astrophysical Journal, 632, 859, \dodoi{10.1086/432968}
+
+% type= article
+\bibitem[{S.~S. McGaugh(2012)McGaugh}]{mcgaugh2012}
+McGaugh, S.~S. 2012, \bibinfo{title}{The Baryonic Tully-Fisher Relation of
+  Gas-rich Galaxies as a Test of LCDM and MOND,} The Astronomical Journal, 143,
+  40, \dodoi{10.1088/0004-6256/143/2/40}
+
+% type= article
+\bibitem[{S.~S. McGaugh {et~al.}(2016)McGaugh, Lelli, \&
+  Schombert}]{mcgaugh2016}
+McGaugh, S.~S., Lelli, F., \& Schombert, J.~M. 2016, \bibinfo{title}{Radial
+  Acceleration Relation in Rotationally Supported Galaxies,} Physical Review
+  Letters, 117, 201101, \dodoi{10.1103/PhysRevLett.117.201101}
+
+% type= article
+\bibitem[{S.~S. McGaugh {et~al.}(2000)McGaugh, Schombert, Bothun, \&
+  de~Blok}]{mcgaugh2000}
+McGaugh, S.~S., Schombert, J.~M., Bothun, G.~D., \& de~Blok, W. J.~G. 2000,
+  \bibinfo{title}{The Baryonic Tully-Fisher Relation,} The Astrophysical
+  Journal Letters, 533, L99, \dodoi{10.1086/312628}
+
+% type= article
+\bibitem[{S.~E. Meidt {et~al.}(2014)Meidt, Schinnerer, van~de Ven, Zaritsky,
+  Peletier, Knapen, Sheth, Regan, Querejeta, \& Muñoz-Mateos}]{meidt2014}
+Meidt, S.~E., Schinnerer, E., van~de Ven, G., {et~al.} 2014,
+  \bibinfo{title}{Reconstructing the Stellar Mass Distributions of Galaxies
+  Using S4G IRAC 3.6 and 4.5 micron Images,} The Astrophysical Journal, 788,
+  144, \dodoi{10.1088/0004-637X/788/2/144}
+
+% type= article
+\bibitem[{M. Milgrom(1983)Milgrom}]{milgrom1983}
+Milgrom, M. 1983, \bibinfo{title}{A Modification of the Newtonian Dynamics as a
+  Possible Alternative to the Hidden Mass Hypothesis,} The Astrophysical
+  Journal, 270, 365, \dodoi{10.1086/161130}
+
+% type= article
+\bibitem[{M. Milgrom(2014)Milgrom}]{milgrom2014}
+Milgrom, M. 2014, \bibinfo{title}{MOND Laws of Galactic Dynamics,}
+  Scholarpedia, 9, 31410, \dodoi{10.4249/scholarpedia.31410}
+
+% type= article
+\bibitem[{B. Moore {et~al.}(1999)Moore, Ghigna, Governato, Lake, Quinn, Stadel,
+  \& Tozzi}]{moore1999}
+Moore, B., Ghigna, S., Governato, F., {et~al.} 1999, \bibinfo{title}{Dark
+  Matter Substructure within Galactic Halos,} The Astrophysical Journal
+  Letters, 524, L19, \dodoi{10.1086/312287}
+
+% type= article
+\bibitem[{J.~F. Navarro {et~al.}(1997)Navarro, Frenk, \& White}]{navarro1997}
+Navarro, J.~F., Frenk, C.~S., \& White, S. D.~M. 1997, \bibinfo{title}{A
+  Universal Density Profile from Hierarchical Clustering,} The Astrophysical
+  Journal, 490, 493, \dodoi{10.1086/304888}
+
+% type= article
+\bibitem[{S.-H. Oh {et~al.}(2015)Oh, Hunter, Brinks, Elmegreen, Schruba,
+  Walter, Rupen, Young, Simpson, Johnson, Herrmann, Ficut-Vicas, \&
+  Cigan}]{oh2015}
+Oh, S.-H., Hunter, D.~A., Brinks, E., {et~al.} 2015,
+  \bibinfo{title}{High-resolution Mass Models of Dwarf Galaxies from LITTLE
+  THINGS,} The Astronomical Journal, 149, 180,
+  \dodoi{10.1088/0004-6256/149/6/180}
+
+% type= article
+\bibitem[{K.~A. Oman {et~al.}(2015)Oman, Navarro, Fattahi, Frenk, Sawala,
+  White, Bower, Crain, Furlong, Schaller, Schaye, \& Theuns}]{oman2015}
+Oman, K.~A., Navarro, J.~F., Fattahi, A., {et~al.} 2015, \bibinfo{title}{The
+  Unexpected Diversity of Dwarf Galaxy Rotation Curves,} Monthly Notices of the
+  Royal Astronomical Society, 452, 3650, \dodoi{10.1093/mnras/stv1504}
+
+% type= article
+\bibitem[{ {Planck Collaboration}(2020){Planck Collaboration}}]{planck2020}
+{Planck Collaboration}. 2020, \bibinfo{title}{Planck 2018 Results. VI.
+  Cosmological Parameters,} Astronomy and Astrophysics, 641, A6,
+  \dodoi{10.1051/0004-6361/201833910}
+
+% type= article
+\bibitem[{A. Pontzen \& F. Governato(2012)Pontzen \& Governato}]{pontzen2012}
+Pontzen, A., \& Governato, F. 2012, \bibinfo{title}{How Supernova Feedback
+  Turns Dark Matter Cusps into Cores,} Monthly Notices of the Royal
+  Astronomical Society, 421, 3464, \dodoi{10.1111/j.1365-2966.2012.20571.x}
+
+% type= misc
+\bibitem[{J. Reback {et~al.}(2020)Reback, McKinney, jbrockmendel, Van~den
+  Bossche, Augspurger, Cloud, gfyoung, Sinhrks, Klein, Roeschke, Hawkins,
+  Tratner, She, Ayd, Petersen, Garcia, Schendel, Hayden, Saxton, Shadrach,
+  Gorelli, Li, Zeitlin, Jancauskas, McMaster, Battiston, Seabold, chris b1,
+  Hoyer, \& Overmeire}]{reback2020}
+Reback, J., McKinney, W., jbrockmendel, {et~al.} 2020, pandas-dev/pandas:
+  Pandas, \dodoi{10.5281/zenodo.3509134}
+
+% type= article
+\bibitem[{V.~C. Rubin {et~al.}(1978)Rubin, Ford, \& Thonnard}]{rubin1978}
+Rubin, V.~C., Ford, W.~Kent, J., \& Thonnard, N. 1978, \bibinfo{title}{Extended
+  Rotation Curves of High-Luminosity Spiral Galaxies. IV. Systematic Dynamical
+  Properties, Sa through Sc,} The Astrophysical Journal Letters, 225, L107,
+  \dodoi{10.1086/182804}
+
+% type= article
+\bibitem[{V.~C. Rubin {et~al.}(1980)Rubin, Ford, \& Thonnard}]{rubin1980}
+Rubin, V.~C., Ford, W.~Kent, J., \& Thonnard, N. 1980,
+  \bibinfo{title}{Rotational Properties of 21 Sc Galaxies with a Large Range of
+  Luminosities and Radii,} The Astrophysical Journal, 238, 471,
+  \dodoi{10.1086/158003}
+
+% type= article
+\bibitem[{L.~V. Sales {et~al.}(2017)Sales, Navarro, \& Oman}]{sales2017}
+Sales, L.~V., Navarro, J.~F., \& Oman, K.~A. 2017,
+  \bibinfo{title}{Baryon-induced Dark Matter Cores in the EAGLE Simulations,}
+  Monthly Notices of the Royal Astronomical Society, 464, 2419,
+  \dodoi{10.1093/mnras/stw2461}
+
+% type= article
+\bibitem[{R.~H. Sanders \& S.~S. McGaugh(2002)Sanders \& McGaugh}]{sanders2002}
+Sanders, R.~H., \& McGaugh, S.~S. 2002, \bibinfo{title}{Modified Newtonian
+  Dynamics as an Alternative to Dark Matter,} Annual Review of Astronomy and
+  Astrophysics, 40, 263, \dodoi{10.1146/annurev.astro.40.060401.093923}
+
+% type= article
+\bibitem[{C. Skordis \& T. Zlosnik(2021)Skordis \& Zlosnik}]{skordis2021}
+Skordis, C., \& Zlosnik, T. 2021, \bibinfo{title}{New Relativistic Theory for
+  Modified Newtonian Dynamics,} Physical Review Letters, 127, 161302,
+  \dodoi{10.1103/PhysRevLett.127.161302}
+
+% type= article
+\bibitem[{Y. Sofue \& V. Rubin(2001)Sofue \& Rubin}]{sofue2001}
+Sofue, Y., \& Rubin, V. 2001, \bibinfo{title}{Rotation Curves of Spiral
+  Galaxies,} Annual Review of Astronomy and Astrophysics, 39, 137,
+  \dodoi{10.1146/annurev.astro.39.1.137}
+
+% type= article
+\bibitem[{D.~V. Stark {et~al.}(2009)Stark, McGaugh, \& Swaters}]{stark2009}
+Stark, D.~V., McGaugh, S.~S., \& Swaters, R.~A. 2009, \bibinfo{title}{The
+  Baryonic Tully-Fisher Relation of Gas-rich Galaxies,} The Astronomical
+  Journal, 138, 392, \dodoi{10.1088/0004-6256/138/2/392}
+
+% type= article
+\bibitem[{R.~B. Tully \& J.~R. Fisher(1977)Tully \& Fisher}]{tully1977}
+Tully, R.~B., \& Fisher, J.~R. 1977, \bibinfo{title}{A New Method of
+  Determining Distances to Galaxies,} Astronomy and Astrophysics, 54, 661
+
+% type= article
+\bibitem[{E.~P. Verlinde(2017)Verlinde}]{verlinde2017}
+Verlinde, E.~P. 2017, \bibinfo{title}{Emergent Gravity and the Dark Universe,}
+  SciPost Physics, 2, 016, \dodoi{10.21468/SciPostPhys.2.3.016}
+
+% type= article
+\bibitem[{P. Virtanen {et~al.}(2020)Virtanen, Gommers, Oliphant, Haberland,
+  Reddy, Cournapeau, Burovski, Peterson, Weckesser, Bright, van~der Walt,
+  Brett, Wilson, Millman, Mayorov, Nelson, Jones, Kern, Larson, Carey, Polat,
+  Feng, Moore, VanderPlas, Laxalde, Perktold, Cimrman, Henriksen, Quintero,
+  Harris, Archibald, Ribeiro, Pedregosa, \& van Mulbregt}]{virtanen2020}
+Virtanen, P., Gommers, R., Oliphant, T.~E., {et~al.} 2020,
+  \bibinfo{title}{SciPy 1.0: Fundamental Algorithms for Scientific Computing in
+  Python,} Nature Methods, 17, 261, \dodoi{10.1038/s41592-019-0686-2}
+
+% type= article
+\bibitem[{E.~B. Wilson(1927)Wilson}]{wilson1927}
+Wilson, E.~B. 1927, \bibinfo{title}{Probable Inference, the Law of Succession,
+  and Statistical Inference,} Journal of the American Statistical Association,
+  22, 209, \dodoi{10.1080/01621459.1927.10502953}
+
+\end{thebibliography}
