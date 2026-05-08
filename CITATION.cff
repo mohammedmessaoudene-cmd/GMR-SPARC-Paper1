@@ -1,7 +1,7 @@
-﻿cff-version: 1.2.0
-message: "If you use this software or derived tables, please cite the archived release and the associated manuscript."
-title: "GMR SPARC Paper 1 Reproducibility Package"
-version: "v55"
+cff-version: 1.2.0
+message: "If you use this RNAAS note package or derived tables, please cite the archived release and associated note."
+title: "A Square-root Acceleration Control for a Fixed Geometric-response Prescription on SPARC Rotation Curves"
+version: "v46-rnaas-final"
 authors:
   - family-names: "Messaoudene"
     given-names: "Mohammed"
@@ -9,4 +9,4 @@ authors:
 repository-code: "https://github.com/mohammedmessaoudene-cmd/GMR-SPARC-Paper1"
 doi: "10.5281/zenodo.20032301"
 license: "MIT"
-date-released: "2026-05-05"
+date-released: "2026-05-09"

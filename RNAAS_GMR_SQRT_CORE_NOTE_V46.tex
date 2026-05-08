@@ -1,0 +1,74 @@
+\documentclass[RNAAS]{aastex701}
+\usepackage{amsmath}
+\journalinfo{}
+\makeatletter
+\renewcommand{\frontmatter@title@above}{}
+\def\ps@plain{\let\@mkboth\@gobbletwo
+  \def\@oddhead{}\def\@evenhead{}%
+  \def\@oddfoot{\hfil\thepage\hfil}\let\@evenfoot\@oddfoot}
+\makeatother
+\shorttitle{}
+\shortauthors{}
+
+\begin{document}
+\pagestyle{plain}
+
+\title{A Square-root Acceleration Control for a Fixed Geometric-response Prescription on SPARC Rotation Curves}
+
+\author{Mohammed Messaoudene}
+\affiliation{Faculty of Sciences, Belhadj Bouchaib University of Ain Temouchent, Ain Temouchent, Algeria}
+\email{mohammed.messaoudene@univ-temouchent.edu.dz}
+\altaffiliation{ORCID iD: 0009-0007-4665-2548}
+
+\begin{abstract}
+I compare a fixed Geometric-Medium Response (GMR) prescription for SPARC rotation curves with a globally fitted square-root excess-acceleration control. The control is $g_{\rm tot}=g_N+A_{\sqrt{}}\sqrt{g_N}$, with $A_{\sqrt{}}=9.0294883069378987\times10^{-6}$ optimized on the 24-galaxy calibration subset. On 175 SPARC galaxies it reaches equal-weight RMSE 40.241 km s$^{-1}$, slightly below the full GMR value 40.554 km s$^{-1}$. On the 151-galaxy non-calibration complement, the corresponding values are 41.329 and 41.870 km s$^{-1}$. Thus, in this implementation, the tested baryonic geometric-response invariants do not improve the main aggregate benchmark beyond a simple square-root acceleration core. The result constrains the current GMR prescription and identifies the square-root law as the empirical core that a geometric-response theory must explain.
+\end{abstract}
+
+\keywords{Galaxy rotation curves (619) --- Dwarf galaxies (416) --- Astrostatistics (1882)}
+
+\maketitle
+\pagestyle{plain}
+\thispagestyle{plain}
+
+SPARC rotation curves provide a compact setting for testing whether baryonic structure beyond the Newtonian acceleration $g_N$ adds predictive information to fixed response laws \citep{lelli2016,mcgaugh2016}. The tested GMR prescription has no galaxy-by-galaxy retuning and contains an exact square-root response core,
+\begin{equation}
+g_\chi = A_{\rm GMR}F(R)\sqrt{g_N},
+\end{equation}
+where $F(R)=\sin(\alpha_B)S_{\rm rad}$ is a dimensionless baryonic-invariant factor. This note asks a narrower question than whether GMR is a complete theory: does the implemented invariant factor improve over the corresponding globally fitted square-root control on the primary SPARC benchmark?
+
+The answer is no for the aggregate equal-weight RMSE used here. The square-root control is slightly lower than full GMR on both the full sample and the non-calibration complement (Table~\ref{tab:metrics}). The comparison is not a decisive galaxy-by-galaxy defeat of GMR: on the full sample, GMR has 88 lower per-galaxy RMSE values while the square-root control has 87. The point is instead one of parsimony and aggregate score. A one-parameter square-root excess control is sufficient to match or slightly exceed the main GMR aggregate performance in the present implementation.
+
+\begin{table}[h]
+\centering
+\caption{Primary equal-weight RMSE comparison in km s$^{-1}$.}
+\label{tab:metrics}
+\begin{tabular}{lcc}
+\hline
+Model and sample & $N_{\rm gal}$ & RMSE \\
+\hline
+Square-root control, full & 175 & 40.241\\
+Full GMR, full & 175 & 40.554\\
+Square-root control, non-calibration & 151 & 41.329\\
+Full GMR, non-calibration & 151 & 41.870\\
+\hline
+\end{tabular}
+\end{table}
+
+The conclusion is therefore a constraint, not a superiority claim. The tested invariant architecture does not yet demonstrate robust predictive information beyond the square-root core, and it should not be read as a solution to dark matter or as a general replacement for halo modeling. Reduced halo profiles, especially cored empirical profiles \citep[e.g.,][]{burkert1995}, remain stronger flexible fitting baselines for many SPARC galaxies, and low-mass, low-surface-brightness dwarfs remain an important failure mode for this GMR implementation.
+
+The square-root core also motivates future tests of non-scalar, compactness- or tidal-gradient-sensitive response operators in merging clusters, but no cluster-lensing claim is made in this note.
+
+\par\medskip\noindent\textbf{Data Availability.}
+The derived tables, source files, and reproduction scripts are available in the public GitHub release \url{https://github.com/mohammedmessaoudene-cmd/GMR-SPARC-Paper1/releases/tag/v46-rnaas-final} and archived under the Zenodo DOI \url{https://doi.org/10.5281/zenodo.20032301}.
+
+\begin{thebibliography}{}
+\bibitem[Begeman et al.(1991)]{begeman1991} Begeman, K. G., Broeils, A. H., \& Sanders, R. H. 1991, MNRAS, 249, 523
+\bibitem[Burkert(1995)]{burkert1995} Burkert, A. 1995, ApJL, 447, L25
+\bibitem[Famaey \& McGaugh(2012)]{famaey2012} Famaey, B., \& McGaugh, S. S. 2012, Living Reviews in Relativity, 15, 10
+\bibitem[Lelli et al.(2016)]{lelli2016} Lelli, F., McGaugh, S. S., \& Schombert, J. M. 2016, AJ, 152, 157
+\bibitem[McGaugh et al.(2016)]{mcgaugh2016} McGaugh, S. S., Lelli, F., \& Schombert, J. M. 2016, Physical Review Letters, 117, 201101
+\bibitem[Milgrom(1983)]{milgrom1983} Milgrom, M. 1983, ApJ, 270, 365
+\bibitem[Navarro et al.(1997)]{navarro1997} Navarro, J. F., Frenk, C. S., \& White, S. D. M. 1997, ApJ, 490, 493
+\end{thebibliography}
+
+\end{document}
