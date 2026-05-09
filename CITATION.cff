@@ -1,7 +1,7 @@
 cff-version: 1.2.0
 message: "If you use this RNAAS note package or derived tables, please cite the archived release and associated note."
 title: "A Square-root Acceleration Control for a Fixed Geometric-response Prescription on SPARC Rotation Curves"
-version: "v46-rnaas-final"
+version: "v47-rnaas-final"
 authors:
   - family-names: "Messaoudene"
     given-names: "Mohammed"

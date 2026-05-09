@@ -28,7 +28,7 @@ for model, subset, expected_round3 in wanted:
 
 out = ROOT / "outputs"
 out.mkdir(exist_ok=True)
-pd.DataFrame(rows).to_csv(out / "rnaas_note_metrics_v46.csv", index=False, lineterminator="\n")
+pd.DataFrame(rows).to_csv(out / "rnaas_note_metrics_v47.csv", index=False, lineterminator="\n")
 print(pd.DataFrame(rows).to_string(index=False))
 if not all(r["pass"] for r in rows):
     raise SystemExit("Metric mismatch")

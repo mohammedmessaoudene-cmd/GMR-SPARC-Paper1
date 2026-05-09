@@ -1,0 +1,5 @@
+model,subset,equal_weight_rmse_kms,rounded_for_note,expected_in_note,pass
+Pure sqrt(g_N) baseline,full_175,40.24136531992959,40.241,40.241,True
+GMR recovered,full_175,40.55415803550234,40.554,40.554,True
+Pure sqrt(g_N) baseline,non_calibration_151,41.328562064746535,41.329,41.329,True
+GMR recovered,non_calibration_151,41.86993938419704,41.87,41.87,True
